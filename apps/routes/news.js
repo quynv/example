@@ -8,4 +8,4 @@ router.get('/', function(req, res, next) {
 
 module.exports = router;
 exports.INTERNAL_SERVER_ERROR	=	500;
-exports.OK				=	200;
+exports.OK		=	200;
